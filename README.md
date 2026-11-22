@@ -18,4 +18,4 @@ networking labs. I'm looking for my first role as a **NOC technician / network s
 
 ## Contact
 - Email: kjamsheed458@gmail.com
-- LinkedIn: [add your LinkedIn link]
+- LinkedIn: https://www.linkedin.com/in/jamsheed-khan-10089533b/
